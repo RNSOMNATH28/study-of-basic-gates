@@ -1,4 +1,5 @@
 ### study-of-basic-gates
+**DATE:** 12-03-2025
 
 **AIM:** 
 
@@ -66,14 +67,35 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ **Developed by:R N Somnath** 
+ **RegisterNumber:212224240158** 
  
 **Logic symbol & Truthtable**
+# Not gate
+![image](https://github.com/user-attachments/assets/eed5a6db-293a-441d-a2cf-1b55b9c0b5c1)
+# AND GATE
+![image](https://github.com/user-attachments/assets/d1fc38db-1354-4e5e-8a1b-dc261c07dbfb)
+# OR GATE
+![image](https://github.com/user-attachments/assets/a25ab05e-4fee-42ce-80b0-168f0a4b0620)
+# NAND GATE
+![image](https://github.com/user-attachments/assets/270eaeb9-7252-406f-9b59-06ed964b8f45)
+# NOR GATE
+![image](https://github.com/user-attachments/assets/ce443822-9809-4211-b21d-c58c30c21076)
+# EX-OR GATE
+![image](https://github.com/user-attachments/assets/3386f751-7176-4939-a0ad-5333fb42547f)
 
-**RTL realization Output:** 
+# EX-NOR GATE
+![image](https://github.com/user-attachments/assets/b56f5529-f87d-4b9e-98f1-6f1649555a7f)
+
+
+**RTL realization Output:**
+![Screenshot 2025-03-19 090314](https://github.com/user-attachments/assets/15e4f381-c926-4a81-af8c-44895e0e700f)
+
 
 **RTL**
+![image](https://github.com/user-attachments/assets/3d6c8898-9a72-422f-b374-63b466aaab10)
+
 
 **Result:**
-
+ Thus the Basic digital ICs and the verification of truth tables for different logic gates were studied and successfully realized using Verilog.
 
